@@ -11,7 +11,8 @@
     "linux",
     "android",
     "freebsd",
-    "win32"
+    "win32",
+    "darwin"
   ],
   "scripts": {
     "pretest": "jshint *.js lib/. test/. examples/.",
