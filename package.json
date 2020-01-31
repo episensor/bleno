@@ -1,6 +1,6 @@
 {
   "name": "@episensor/bleno",
-  "version": "0.5.1-1",
+  "version": "0.5.1-2",
   "description": "A Node.js module for implementing BLE (Bluetooth Low Energy) peripherals",
   "main": "index.js",
   "engines": {
@@ -44,7 +44,7 @@
   },
   "dependencies": {
     "debug": "^4.1.1",
-    "@episensor/bluetooth-hci-socket": "^0.5.3-4"
+    "@episensor/bluetooth-hci-socket": "^0.5.3-5"
   },
   "optionalDependencies": {
     "bplist-parser": "0.2.0",
